@@ -1,0 +1,5 @@
+[
+    { "city": "Lagos", "temperature": 30, "condition": "Sunny" },
+    { "city": "Abuja", "temperature": 28, "condition": "Cloudy" },
+    { "city": "Kano", "temperature": 33, "condition": "Hot" }
+]
